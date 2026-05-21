@@ -23,12 +23,8 @@ These insights will help Danny decide whether to **expand his customer loyalty p
 
 ## 🗃️ Database Schema
 
-```
-<img width="552" height="194" alt="image" src="https://github.com/user-attachments/assets/ff7a3469-5db4-4267-836c-4e03f61a8bfc" />
 
-
-
-```
+<img width="552" height="194" alt="Screenshot 2026-05-21 162745" src="https://github.com/user-attachments/assets/45ba4e83-5106-4d15-91db-8cf06f01c7e8" />
 
 ---
 
