@@ -1,4 +1,4 @@
-<img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/d89438bc-0353-4c8b-ac0e-0b5a1a18d444" />
+<img width="270" height="300" alt="image" src="https://github.com/user-attachments/assets/d89438bc-0353-4c8b-ac0e-0b5a1a18d444" />
 
 
 # 🗄️ SQL Projects Portfolio
