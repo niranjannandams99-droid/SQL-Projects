@@ -1,4 +1,4 @@
-<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/0fd63f0d-b52f-40e9-8fe7-2083aed69854" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/0fd63f0d-b52f-40e9-8fe7-2083aed69854" />
 
 
 # 🍜 Danny's Diner — SQL Case Study
