@@ -1,4 +1,4 @@
-<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/0fd63f0d-b52f-40e9-8fe7-2083aed69854" />
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/0fd63f0d-b52f-40e9-8fe7-2083aed69854" />
 
 
 # 🍜 Danny's Diner — SQL Case Study
@@ -24,7 +24,8 @@ These insights will help Danny decide whether to **expand his customer loyalty p
 ## 🗃️ Database Schema
 
 ```
-<img width="571" height="238" alt="image" src="https://github.com/user-attachments/assets/9e78cb1c-fa84-4a6c-befe-7041e9c8f3cd" />
+<img width="552" height="194" alt="image" src="https://github.com/user-attachments/assets/ff7a3469-5db4-4267-836c-4e03f61a8bfc" />
+
 
 
 ```
