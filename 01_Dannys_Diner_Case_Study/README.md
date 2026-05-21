@@ -1,3 +1,6 @@
+<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/0fd63f0d-b52f-40e9-8fe7-2083aed69854" />
+
+
 # 🍜 Danny's Diner — SQL Case Study
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -21,15 +24,9 @@ These insights will help Danny decide whether to **expand his customer loyalty p
 ## 🗃️ Database Schema
 
 ```
-┌─────────────┐       ┌──────────────┐       ┌─────────────┐
-│    sales     │       │     menu     │       │   members   │
-├─────────────┤       ├──────────────┤       ├─────────────┤
-│ customer_id │──┐    │ product_id PK│    ┌──│ customer_id │
-│ order_date  │  └───▶│ product_name │    │  │ join_date   │
-│ product_id  │──────▶│ price        │    │  └─────────────┘
-└─────────────┘       └──────────────┘    │
-      │                                    │
-      └────────────────────────────────────┘
+<img width="571" height="238" alt="image" src="https://github.com/user-attachments/assets/9e78cb1c-fa84-4a6c-befe-7041e9c8f3cd" />
+
+
 ```
 
 ---
